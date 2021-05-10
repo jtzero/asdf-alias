@@ -41,7 +41,7 @@ asdf alias java --remove
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/andrew-thauer/asdf-alias/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/andrewthauer/asdf-alias/graphs/contributors)!
 
 ## License
 
